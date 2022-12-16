@@ -8,7 +8,7 @@
 PRODUCT_NAME = mm8888
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.fx712.mm8888.mm8888
+PRODUCT_BUNDLE_IDENTIFIER = com.fx712.mm8888
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.fx712.mm8888. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.fx712. All rights reserved.

@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAznifNBq8pVV7_ksUHYoB8CA8q4YYtjXQ',
-    appId: '1:711475016941:web:5d8e82c7f25348ac2888e4',
+    apiKey: 'AIzaSyDT2adRPXz4mEmAwHTTyvyuo6uBSSfv-wQ',
+    appId: '1:711475016941:web:89b4da75c46995cb2888e4',
     messagingSenderId: '711475016941',
     projectId: 'mm8888-244371',
     authDomain: 'mm8888-244371.firebaseapp.com',
     storageBucket: 'mm8888-244371.appspot.com',
-    measurementId: 'G-BQ00SES3V8',
+    measurementId: 'G-NK8EKC88TJ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1iybZaySfLqIGtN6sOMcQZy2izx4g3Zs',
-    appId: '1:711475016941:android:baa4bd23ccdb77de2888e4',
+    apiKey: 'AIzaSyAf6PEeuB_zyMfyU5kYd7XuOO3059MLbM4',
+    appId: '1:711475016941:android:e01c00eba2dc9ced2888e4',
     messagingSenderId: '711475016941',
     projectId: 'mm8888-244371',
     storageBucket: 'mm8888-244371.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC3hqLfsNaiAdJdLBGz9q3oF949vM-T1dA',
-    appId: '1:711475016941:ios:aa5c92389058a99e2888e4',
+    apiKey: 'AIzaSyDMKXeqlpCOpuCaTX3582NI2YOstqjAPpQ',
+    appId: '1:711475016941:ios:413898909393fd9d2888e4',
     messagingSenderId: '711475016941',
     projectId: 'mm8888-244371',
     storageBucket: 'mm8888-244371.appspot.com',
-    iosClientId: '711475016941-jfolfsmiidg5ajnqtdbllv54q7frh6hs.apps.googleusercontent.com',
-    iosBundleId: 'com.fx712.mm8888.mm8888',
+    iosClientId: '711475016941-ehiqrt52qgf3aklmkjl9gutkj3b7d2rc.apps.googleusercontent.com',
+    iosBundleId: 'com.fx712.mm8888',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC3hqLfsNaiAdJdLBGz9q3oF949vM-T1dA',
-    appId: '1:711475016941:ios:aa5c92389058a99e2888e4',
+    apiKey: 'AIzaSyDMKXeqlpCOpuCaTX3582NI2YOstqjAPpQ',
+    appId: '1:711475016941:ios:413898909393fd9d2888e4',
     messagingSenderId: '711475016941',
     projectId: 'mm8888-244371',
     storageBucket: 'mm8888-244371.appspot.com',
-    iosClientId: '711475016941-jfolfsmiidg5ajnqtdbllv54q7frh6hs.apps.googleusercontent.com',
-    iosBundleId: 'com.fx712.mm8888.mm8888',
+    iosClientId: '711475016941-ehiqrt52qgf3aklmkjl9gutkj3b7d2rc.apps.googleusercontent.com',
+    iosBundleId: 'com.fx712.mm8888',
   );
 }

@@ -69,8 +69,8 @@ class _SettingPageState extends State<SettingPage> {
           title: const Text(
             'Setting',
             style: TextStyle(
-              color: Colors.black,
-              fontWeight: FontWeight.bold
+                color: Colors.black,
+                fontWeight: FontWeight.bold
             ),
           ),
           leading: IconButton(
@@ -101,25 +101,25 @@ class _SettingPageState extends State<SettingPage> {
                 ),
               ),
               ListTile(
-                onTap: (){
-                  signOut();
-                },
-                leading: Image(
-                  image: AssetImage('assets/logout.png'),
-                ),
-                title: Text(
-                  "Sign Out",
-                  style: TextStyle(
-                    color: Colors.black,
+                  onTap: (){
+                    signOut();
+                  },
+                  leading: Image(
+                    image: AssetImage('assets/logout.png'),
                   ),
-                ),
-                subtitle: Text(
-                  "-",
-                  style: TextStyle(
-                    color: Colors.black,
+                  title: Text(
+                    "Sign Out",
+                    style: TextStyle(
+                      color: Colors.black,
+                    ),
                   ),
-                ),
-                trailing: null
+                  subtitle: Text(
+                    "-",
+                    style: TextStyle(
+                      color: Colors.black,
+                    ),
+                  ),
+                  trailing: null
               ),
             ],
           ),
